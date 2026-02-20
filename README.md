@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [BloomHer] 🎯
 
 ## Basic Details
 
 ### Team Name: [Name]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Angel CJ] - [Lourdes Matha College science and technology]
+- Member 2: [Anusa S] - [Lourdes Matha College of science and technology]
+
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Our website is based on the womens health care we can check our own period cycle,symptom tracker ,early warning alerts,insights and analytics, health tips,reminder and the last daily lovable qoutes are also available befpre end the visit. ]
 
-### The Problem statement
-[What problem are you solving?]
-
+### The Problem Statement
+[women often faces challenges in accessing reliable,sigma-free, and personilized health information.Topics such as menustruation,reproductive health,hormonal changes,and mental well-being are frequently surrounded by misinformation,social toboos,and limited awareness.]
 ### The Solution
-[How are you solving it?]
+[BloomHer addresses the gaps in women's healthcare access by creating a dedicated,user-friently digital platform focused entirely on women's physical and mental well-being.we provide well structured,easy to understand health content specifically tailored to women,covering topics like menstrual health,mental health awareness.It aso encourages women to track(periods cycles,symptoms,mood patterns)we desidned plateform to be supportive ,inciusive,free to judegement and It is simple and accessible technology that easy to access on any device,fast performance.]
 
 ---
 
@@ -31,25 +31,25 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
-
+- Languages used: [JavaScript]
+- Frameworks used:[React, vite]
+- Libraries used: [React,vite]
+- Tools used: [react compiler,node.js]
+  
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Main components: [not applicabe]
+- Specifications: [not  applicable]
+- Tools required: [not applicable]
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [periods&symptoms tracker]
+- Feature 2: [women's health awareness]
+- Feature 3: [safe&stigma-free platform]
+- Feature 4: [responsive and user friently design ]
 
 ---
 
@@ -59,21 +59,21 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
+[Installation commands - npm install]
 ```
 
 #### Run
 ```bash
-[Run commands - e.g., npm start, python app.py]
+[Run commands - npm run dev]
 ```
 
 ### For Hardware:
 
 #### Components Required
-[List all components needed with specifications]
+[not applicable]
 
 #### Circuit Setup
-[Explain how to set up the circuit]
+[not applicable ]
 
 ---
 
@@ -83,14 +83,37 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]<img width="1841" height="852" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/181544d3-dbae-4d58-86b0-1e144e7b8220" />
+its an welcoming page
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]<img width="1733" height="873" alt="Image" src="https://github.com/user-attachments/assets/36a176b2-3d1b-402d-888b-7bf196256dc5" />
+its an 1st homepage
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3]<img width="1728" height="809" alt="Image" src="https://github.com/user-attachments/assets/f9501c52-5717-4f3c-8374-0a37d9dc17ab" />
+2nd home page
+
+![Screenshot4]<img width="1830" height="847" alt="Image" src="https://github.com/user-attachments/assets/087570cb-a556-435a-bb8c-d5c329a277b8" />
+insight an analytic page
+
+![Screenshot5]<img width="1731" height="875" alt="Image" src="https://github.com/user-attachments/assets/5d35fc18-7906-4acc-946c-e38d37118657" />
+health tips 1st page
+
+![Screenshot6]<img width="1798" height="856" alt="Image" src="https://github.com/user-attachments/assets/416c6066-cb59-4399-8f8d-3c59a4340f6c" />
+health tips 2nd page
+
+![Screenshot7]<img width="1364" height="821" alt="Image" src="https://github.com/user-attachments/assets/87c9ce2a-a5f4-44a0-8b8a-58ee37b74c15" />
+health tips 3rd page
+
+![Screenshot8]<img width="1731" height="873" alt="Image" src="https://github.com/user-attachments/assets/254684fe-707f-4749-a6c2-2f3b2d96b6e5" />
+reaminder page
+
+![Screenshot9]<img width="1811" height="876" alt="Image" src="https://github.com/user-attachments/assets/baa13f01-80ad-4898-8a80-6e238d8f1895" />
+daily lovable qoutes 1st page
+
+![Screenshot10]<img width="1889" height="861" alt="Image" src="https://github.com/user-attachments/assets/50f78a93-7826-4ddd-a05f-74047a58b7c5" />
+daily lovable qoutes 2nd page
+
+
 
 #### Diagrams
 
@@ -106,159 +129,6 @@ List the key features of your project:
 
 ---
 
-### For Hardware:
-
-#### Schematic & Circuit
-
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-#### Build Photos
-
-![Team](Add photo of your team here)
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
----
-
-## Additional Documentation
-
-### For Web Projects with Backend:
-
-#### API Documentation
-
-**Base URL:** `https://api.yourproject.com`
-
-##### Endpoints
-
-**GET /api/endpoint**
-- **Description:** [What it does]
-- **Parameters:**
-  - `param1` (string): [Description]
-  - `param2` (integer): [Description]
-- **Response:**
-```json
-{
-  "status": "success",
-  "data": {}
-}
-```
-
-**POST /api/endpoint**
-- **Description:** [What it does]
-- **Request Body:**
-```json
-{
-  "field1": "value1",
-  "field2": "value2"
-}
-```
-- **Response:**
-```json
-{
-  "status": "success",
-  "message": "Operation completed"
-}
-```
-
-[Add more endpoints as needed...]
-
----
-
-### For Mobile Apps:
-
-#### App Flow Diagram
-
-![App Flow](docs/app-flow.png)
-*Explain the user flow through your application*
-
-#### Installation Guide
-
-**For Android (APK):**
-1. Download the APK from [Release Link]
-2. Enable "Install from Unknown Sources" in your device settings:
-   - Go to Settings > Security
-   - Enable "Unknown Sources"
-3. Open the downloaded APK file
-4. Follow the installation prompts
-5. Open the app and enjoy!
-
-**For iOS (IPA) - TestFlight:**
-1. Download TestFlight from the App Store
-2. Open this TestFlight link: [Your TestFlight Link]
-3. Click "Install" or "Accept"
-4. Wait for the app to install
-5. Open the app from your home screen
-
-**Building from Source:**
-```bash
-# For Android
-flutter build apk
-# or
-./gradlew assembleDebug
-
-# For iOS
-flutter build ios
-# or
-xcodebuild -workspace App.xcworkspace -scheme App -configuration Debug
-```
-
----
-
-### For Hardware Projects:
-
-#### Bill of Materials (BOM)
-
-| Component | Quantity | Specifications | Price | Link/Source |
-|-----------|----------|----------------|-------|-------------|
-| Arduino Uno | 1 | ATmega328P, 16MHz | ₹450 | [Link] |
-| LED | 5 | Red, 5mm, 20mA | ₹5 each | [Link] |
-| Resistor | 5 | 220Ω, 1/4W | ₹1 each | [Link] |
-| Breadboard | 1 | 830 points | ₹100 | [Link] |
-| Jumper Wires | 20 | Male-to-Male | ₹50 | [Link] |
-| [Add more...] | | | | |
-
-**Total Estimated Cost:** ₹[Amount]
-
-#### Assembly Instructions
-
-**Step 1: Prepare Components**
-1. Gather all components listed in the BOM
-2. Check component specifications
-3. Prepare your workspace
-![Step 1](images/assembly-step1.jpg)
-*Caption: All components laid out*
-
-**Step 2: Build the Power Supply**
-1. Connect the power rails on the breadboard
-2. Connect Arduino 5V to breadboard positive rail
-3. Connect Arduino GND to breadboard negative rail
-![Step 2](images/assembly-step2.jpg)
-*Caption: Power connections completed*
-
-**Step 3: Add Components**
-1. Place LEDs on breadboard
-2. Connect resistors in series with LEDs
-3. Connect LED cathodes to GND
-4. Connect LED anodes to Arduino digital pins (2-6)
-![Step 3](images/assembly-step3.jpg)
-*Caption: LED circuit assembled*
-
-**Step 4: [Continue for all steps...]**
-
-**Final Assembly:**
-![Final Build](images/final-build.jpg)
-*Caption: Completed project ready for testing*
 
 ---
 
@@ -400,9 +270,8 @@ If you used AI tools during development, document them here for transparency:
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
+- [Angel CJ]: [Frontend development,design]
+- [Anusa S ]: [Backend development,idea devolped]
 
 ---
 
