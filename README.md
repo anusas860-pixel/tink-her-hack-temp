@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [BloomHer] 🎯
+# BloomHer 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: BRIGHTTECH
 
 ### Team Members
-- Member 1: [Angel CJ] - [Lourdes Matha College science and technology]
-- Member 2: [Anusa S] - [Lourdes Matha College of science and technology]
+- Member 1: Angel CJ - Lourdes Matha College science and technology
+- Member 2: Anusa S - Lourdes Matha College of science and technology
 
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://tink-her-hack-temp-rouge.vercel.app
 
 ### Project Description
-[Our website is based on the womens health care we can check our own period cycle,symptom tracker ,early warning alerts,insights and analytics, health tips,reminder and the last daily lovable qoutes are also available befpre end the visit. ]
+Our website is based on the womens health care we can check our own period cycle,symptom tracker ,early warning alerts,insights and analytics, health tips,reminder and the last daily lovable qoutes are also available befpre end the visit. 
 
 ### The Problem Statement
-[women often faces challenges in accessing reliable,sigma-free, and personilized health information.Topics such as menustruation,reproductive health,hormonal changes,and mental well-being are frequently surrounded by misinformation,social toboos,and limited awareness.]
+women often faces challenges in accessing reliable,sigma-free, and personilized health information.Topics such as menustruation,reproductive health,hormonal changes,and mental well-being are frequently surrounded by misinformation,social toboos,and limited awareness.
 ### The Solution
-[BloomHer addresses the gaps in women's healthcare access by creating a dedicated,user-friently digital platform focused entirely on women's physical and mental well-being.we provide well structured,easy to understand health content specifically tailored to women,covering topics like menstrual health,mental health awareness.It aso encourages women to track(periods cycles,symptoms,mood patterns)we desidned plateform to be supportive ,inciusive,free to judegement and It is simple and accessible technology that easy to access on any device,fast performance.]
+BloomHer addresses the gaps in women's healthcare access by creating a dedicated,user-friently digital platform focused entirely on women's physical and mental well-being.we provide well structured,easy to understand health content specifically tailored to women,covering topics like menstrual health,mental health awareness.It aso encourages women to track(periods cycles,symptoms,mood patterns)we desidned plateform to be supportive ,inciusive,free to judegement and It is simple and accessible technology that easy to access on any device,fast performance.
 
 ---
 
@@ -31,25 +31,20 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [JavaScript]
-- Frameworks used:[React, vite]
-- Libraries used: [React,vite]
-- Tools used: [react compiler,node.js]
+- Languages used: JavaScript
+- Frameworks used:React, vite
+- Libraries used: React,vite
+- Tools used: react compiler,node.js
   
-**For Hardware:**
-- Main components: [not applicabe]
-- Specifications: [not  applicable]
-- Tools required: [not applicable]
 
----
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [periods&symptoms tracker]
-- Feature 2: [women's health awareness]
-- Feature 3: [safe&stigma-free platform]
-- Feature 4: [responsive and user friently design ]
+- Feature 1: periods&symptoms tracker
+- Feature 2: women's health awareness
+- Feature 3: safe&stigma-free platform
+- Feature 4: responsive and user friently design 
 
 ---
 
@@ -59,23 +54,15 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - npm install]
+Installation commands - npm install
 ```
 
 #### Run
 ```bash
-[Run commands - npm run dev]
+Run commands - npm run dev
 ```
 
-### For Hardware:
 
-#### Components Required
-[not applicable]
-
-#### Circuit Setup
-[not applicable ]
-
----
 
 ## Project Documentation
 
@@ -124,50 +111,16 @@ daily lovable qoutes 2nd page
 
 **Application Workflow:**
 
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
+Workflow
+
+(https://github.com/user-attachments/assets/f4d1b28c-6350-4c53-ad48-15674fccf9ea)
 
 ---
 
 
 ---
 
-### For Scripts/CLI Tools:
 
-#### Command Reference
-
-**Basic Usage:**
-```bash
-python script.py [options] [arguments]
-```
-
-**Available Commands:**
-- `command1 [args]` - Description of what command1 does
-- `command2 [args]` - Description of what command2 does
-- `command3 [args]` - Description of what command3 does
-
-**Options:**
-- `-h, --help` - Show help message and exit
-- `-v, --verbose` - Enable verbose output
-- `-o, --output FILE` - Specify output file path
-- `-c, --config FILE` - Specify configuration file
-- `--version` - Show version information
-
-**Examples:**
-
-```bash
-# Example 1: Basic usage
-python script.py input.txt
-
-# Example 2: With verbose output
-python script.py -v input.txt
-
-# Example 3: Specify output file
-python script.py -o output.txt input.txt
-
-# Example 4: Using configuration
-python script.py -c config.json --verbose input.txt
-```
 
 #### Demo Output
 
@@ -175,9 +128,14 @@ python script.py -c config.json --verbose input.txt
 
 **Input:**
 ```
-This is a sample input file
-with multiple lines of text
-for demonstration purposes
+Last Period Date: 1 Feb 2026
+
+Average Cycle Length: 28 days
+
+Symptoms Today: Mild cramps, Low energy
+
+Mood: Calm
+
 ```
 
 **Command:**
@@ -187,56 +145,23 @@ python script.py sample.txt
 
 **Output:**
 ```
-Processing: sample.txt
-Lines processed: 3
-Characters counted: 86
-Status: Success
-Output saved to: output.txt
-```
+Next Expected Period: 29 Feb 2026
 
-**Example 2: Advanced Usage**
+Current Phase: Luteal Phase
+ Health Insight: Mild cramps are common in this phase—stay hydrated and rest well.
+ Reminder: Track tomorrow’s symptoms for better accuracy.
+ Daily Lovable Quote: “Your body whispers before it speaks—listen with love.”
 
-**Input:**
-```json
-{
-  "name": "test",
-  "value": 123
-}
-```
 
-**Command:**
-```bash
-python script.py -v --format json data.json
-```
 
-**Output:**
-```
-[VERBOSE] Loading configuration...
-[VERBOSE] Parsing JSON input...
-[VERBOSE] Processing data...
-{
-  "status": "success",
-  "processed": true,
-  "result": {
-    "name": "test",
-    "value": 123,
-    "timestamp": "2024-02-07T10:30:00"
-  }
-}
-[VERBOSE] Operation completed in 0.23s
-```
-
----
+**
 
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+https://www.loom.com/share/010ca67b3d3a406cb6e350be17303dc6
 
-*Explain what the video demonstrates - key features, user flow, technical highlights*
-
-### Additional Demos
-[Add any extra demo materials/links - Live site, APK download, online demo, etc.]
+BloomHer is a women’s wellness platform that empowers users with cycle logging, symptom tracking, personalized insights, health tips, reminders, and daily lovable quotes to support holistic well-being.
 
 ---
 
@@ -270,8 +195,8 @@ If you used AI tools during development, document them here for transparency:
 
 ## Team Contributions
 
-- [Angel CJ]: [Frontend development,design]
-- [Anusa S ]: [Backend development,idea devolped]
+- Angel CJ: Frontend development,design
+- Anusa S : Backend development,idea devolped
 
 ---
 
@@ -279,8 +204,30 @@ If you used AI tools during development, document them here for transparency:
 
 This project is licensed under the [LICENSE_NAME] License - see the [LICENSE](LICENSE) file for details.
 
+
 **Common License Options:**
-- MIT License (Permissive, widely used)
+- MIT License : This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) – see the LICENSE file for details.
+- MIT License
+
+Copyright (c) 2026 Angel CJ, Anusa S
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 - Apache 2.0 (Permissive with patent grant)
 - GPL v3 (Copyleft, requires derivative works to be open source)
 
